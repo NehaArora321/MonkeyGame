@@ -13,7 +13,7 @@ function setup() {
   
   backg=createSprite(0,0,800,400);
   backg.addImage(backgImg);
-  backg.scale=1.5;
+  backg.scale=1.8;
   backg.velocityX=-4;
   
   monkey=createSprite(50,340);
